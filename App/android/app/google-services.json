@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "249012544062",
+    "project_id": "simplesignal-ba161",
+    "storage_bucket": "simplesignal-ba161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249012544062:android:b498f592d8006254b8a76f",
+        "android_client_info": {
+          "package_name": "com.chat3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249012544062-71r7kr8321kfr0gj0f0vmdjacl8qng30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8HBmxS9wdPaAB-qK-87hq4E0ZSON0dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249012544062-71r7kr8321kfr0gj0f0vmdjacl8qng30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249012544062:android:1c671db373231991b8a76f",
+        "android_client_info": {
+          "package_name": "com.chat_app_with_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249012544062-71r7kr8321kfr0gj0f0vmdjacl8qng30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8HBmxS9wdPaAB-qK-87hq4E0ZSON0dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249012544062-71r7kr8321kfr0gj0f0vmdjacl8qng30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
